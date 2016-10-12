@@ -23,15 +23,15 @@ The markdown source file will contain a piece of writing that you have done for 
 
 ## Prerequisites
 
-You will need to have Pandoc and TeXLive installed on your CodeAnywhere containers. 
+You will need to have Pandoc and TeXLive installed on your Cloud9 workspace. 
 Pandoc can convert most input formats to most other output formats on its own. 
-Pandoc uses TeXLive to produce PDFs, so we have to install this in order  to fulfill one of the targets of the assignment. 
+Pandoc uses TeXLive to produce PDFs, so we have to install this in order to fulfill one of the targets of the assignment. 
 
 ## Instructions
 
 You will need to do the following for this assignment to be considered complete. 
 
-1. Fork and clone this repository into your CodeAnywhere container.
+1. Fork and clone your fork of this repository into your Cloud9 container.
 3. Rename the script `convert-docs.sh`, contained in this repository, to `YOUR-GITHUB-USERNAME-convert-docs.sh`. 
 2. Edit the script (which has only comments currently) to include commands and make sure that it can be executed. 
 3. In your script, you need to include the following output formats:
@@ -39,12 +39,15 @@ You will need to do the following for this assignment to be considered complete.
   - ODT
   - HTML
   - PDF
-4. Place a markdown version of a piece of original writing into your forked repository. 
+4. Place a markdown version of a piece of your original writing into your forked repository. 
 5. Test, tweak and then run your script to produce the four output formats listed above. 
 5. Add, commit, and push all of your changes.
 6. Once you are satisfied with your outputs, create a new blog post on your website and include the following:
   - A brief description (abstract) of your written work
   - A description of what you did to get it into multiple formats
-  - Links to all of your source and output files, and your script. You can link to the repository page if you like, but I would like you to make a list of the files in your blog post.
+  - A list of the files in your blog post.
+  - Links to all of your source and output files, and your script on Github.
+  - Share your Cloud9 workspace with me and place a link to your **Editor** in the post
+  - Reflections on any challenges you encountered, 'aha' moments you had, etc.
   
 
