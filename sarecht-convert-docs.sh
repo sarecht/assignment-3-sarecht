@@ -4,6 +4,15 @@
 
 INPUTFILENAME="mywriting.md"
 
+# Greeting
+echo Hello! What is your name?
+
+# Read name
+read NAME 
+
+# What the script does
+echo I will convert $INPUTFILENAME "for" you, $NAME!
+
 # Convert markdown to HTML
 
 pandoc -S -o mywriting.html -t mywriting.md
