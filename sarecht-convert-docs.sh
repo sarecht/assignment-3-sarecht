@@ -2,7 +2,7 @@
 
 # Declare input argument as a variable
 
-INPUTFILENAME="mywriting.md"
+INPUTFILENAME="prolixin.md"
 
 # Greeting
 echo Hello! What is your name?
@@ -15,19 +15,19 @@ echo I will convert $INPUTFILENAME "for" you, $NAME!
 
 # Convert markdown to HTML
 
-pandoc -S -o mywriting.html -t mywriting.md
+pandoc -S -o prolixin.html prolixin.md
 
 # Convert markdown to DOCX
 
-pandoc -S -o mywriting.docx -t mywriting.md
+pandoc -S -o prolixin.docx prolixin.md
 
 # Convert markdown to ODT
 
-pandoc -S -o mywriting.odt -t mywriting.md
+pandoc -S -o prolixin.odt prolixin.md
 
 # Convert markdown to PDF
 
-pandoc -S -o mywriting.pdf -t mywriting.md
+pandoc -S -o prolixin.pdf prolixin.md
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
  
