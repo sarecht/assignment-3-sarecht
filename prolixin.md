@@ -24,6 +24,16 @@ fever, blood pressure changes, fatigue, and live or kidney abnormalities
 slowed although there is no guarantee that there will not be a relapse
 (NAMI 2014).
 
+  **Side Effects**
+  ------------------
+
+  Drowsiness
+  --------------------------------
+  Dizziness
+  Tardive dyskinesia
+  Neuroleptic malignant syndrome
+  Sudden cardiac death
+
 Bibliography
 
 \[FDA\] US Food and Drug Administration. 2008. FDA Requests Boxed
@@ -41,3 +51,5 @@ http://www.namihelps.org/assets/PDFs/fact-sheets/Medications/Prolilxin.pdf
 \[Internet\]. Bethesda(MD):U.S. National Library of Medicine; \[2014
 May, cited 2015 August\] . Available from:
 https://www.nlm.nih.gov/medlineplus/ency/article/000685.htm
+
+![](media/image1.jpeg)
