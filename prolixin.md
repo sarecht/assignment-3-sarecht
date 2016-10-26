@@ -1,9 +1,15 @@
+## Sarah Albrecht
+
+## ENGL 105
+
+## Fall 2015
+
 Prolixin was developed in the 1960s by the pharmaceutical company now
 known as Novartis as a method of treatment for schizophrenia (NAMI
 2007). It is an antipsychotic medication that blocks the positive
 symptoms of schizophrenia such as hallucinations and delusions by
 restoring the balance of dopamine in the patient’s brain (NAMI 2007).
-Prolixin is classified as a first generation antipsychotic and is
+Prolixin is classified as a "first generation antipsychotic" and is
 referred to as a conventional antipsychotic (FDA 2015). Like all first
 generation antipsychotics it is required by the FDA to carry a black box
 label as of 2008 (FDA 2008).
@@ -24,17 +30,20 @@ fever, blood pressure changes, fatigue, and live or kidney abnormalities
 slowed although there is no guarantee that there will not be a relapse
 (NAMI 2014).
 
+![](media/image1.jpg)
+
+
   **Side Effects**
-  ------------------
-
-  Drowsiness
   --------------------------------
-  Dizziness
-  Tardive dyskinesia
-  Neuroleptic malignant syndrome
-  Sudden cardiac death
+#> 1.       Dizziness
+#> 2.       Drowsiness
+#> 3.       Tardive dykinesia
+#> 4.       Neuroleptic malignant syndrome
 
-Bibliography
+
+\pagebreak
+
+## Sources
 
 \[FDA\] US Food and Drug Administration. 2008. FDA Requests Boxed
 Warnings on Older Class of Antipsychotic Drugs. FDA News Release
@@ -51,5 +60,3 @@ http://www.namihelps.org/assets/PDFs/fact-sheets/Medications/Prolilxin.pdf
 \[Internet\]. Bethesda(MD):U.S. National Library of Medicine; \[2014
 May, cited 2015 August\] . Available from:
 https://www.nlm.nih.gov/medlineplus/ency/article/000685.htm
-
-![](media/image1.jpeg)
