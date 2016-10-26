@@ -9,7 +9,7 @@ known as Novartis as a method of treatment for schizophrenia (NAMI
 2007). It is an antipsychotic medication that blocks the positive
 symptoms of schizophrenia such as hallucinations and delusions by
 restoring the balance of dopamine in the patient’s brain (NAMI 2007).
-Prolixin is classified as a "first generation antipsychotic" and is
+Prolixin is classified as a “first generation antipsychotic” and is
 referred to as a conventional antipsychotic (FDA 2015). Like all first
 generation antipsychotics it is required by the FDA to carry a black box
 label as of 2008 (FDA 2008).
